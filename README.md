@@ -1,1 +1,1 @@
-This is my ML Project
+This Project aimed on creating a ml model that predict the fair salary of data science job positions across the industry
